@@ -1,0 +1,12 @@
+E:\learn_somtimes\C#\扫雷\扫雷\bin\Debug\扫雷.exe.config
+E:\learn_somtimes\C#\扫雷\扫雷\obj\Debug\扫雷.csprojResolveAssemblyReference.cache
+E:\learn_somtimes\C#\扫雷\扫雷\obj\Debug\扫雷.Form1.resources
+E:\learn_somtimes\C#\扫雷\扫雷\obj\Debug\扫雷.Form2.resources
+E:\learn_somtimes\C#\扫雷\扫雷\obj\Debug\扫雷.Form4.resources
+E:\learn_somtimes\C#\扫雷\扫雷\obj\Debug\扫雷.Properties.Resources.resources
+E:\learn_somtimes\C#\扫雷\扫雷\obj\Debug\扫雷.csproj.GenerateResource.Cache
+E:\learn_somtimes\C#\扫雷\扫雷\bin\Debug\扫雷.exe
+E:\learn_somtimes\C#\扫雷\扫雷\bin\Debug\扫雷.pdb
+E:\learn_somtimes\C#\扫雷\扫雷\obj\Debug\扫雷.Form3.resources
+E:\learn_somtimes\C#\扫雷\扫雷\obj\Debug\扫雷.exe
+E:\learn_somtimes\C#\扫雷\扫雷\obj\Debug\扫雷.pdb
